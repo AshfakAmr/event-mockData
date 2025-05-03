@@ -1,4 +1,19 @@
 {
-  "users": [],
-  "events": []
+  "userAccounts": [],
+  "events": [
+    {
+      "id": "2",
+      "userId": "ashfak@gmail.com",
+      "title": "Event 2",
+      "description": "This is a description for Event 2.",
+      "date": "2023-12-13"
+    },
+    {
+      "id": "3",
+      "userId": "ashfak@gmail.com",
+      "title": "Event 3",
+      "description": "This is a description for Event 3.",
+      "date": "2023-12-14"
+    }
+  ]
 }
